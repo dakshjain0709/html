@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+< html lang = "en"> 
+
+    <meta charset="UTF-8">
+</head>
+<body>
+<main>
+    <h1> introduction on   artifical intelligence</h1>
+    <div>
+        <h2> about AI</h2> 
+        <p>Artificial Intelligence (AI) is a branch of computer science focused on creating systems or machines that can perform
+        tasks that typically require human intelligence. These tasks include learning, problem-solving, decision-making,
+        language understanding, and pattern recognition. AI is broadly divided into diffenret catogeries </p>
+    </div>
+    <h3>types of AI</h3>
+    <div> 
+        <h4> based on capabilities  </h4>
+        <ul>
+            <li>Narrow AI (Weak AI)</li>
+            <li>General AI (Strong AI)</li>
+            <li>Super AI</li>
+        </ul>
+    <h5> based on functionality </h5>
+ <ol> 
+     <li>reactive machines </li>
+     <li> thoery of mind </li>
+     <li>self aware ai</li>
+ </ol>
+
+    </div>
+    <div>
+         <a href=https://g.co/kgs/152ZfDQ/>click here to know more about AI</a>
+             
+     <img src="https://images.javatpoint.com/tutorial/ai/images/artificial-intelligence.gif" alt= "ai features" width="70%">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230130090050/applications-of-AI.webp"alt="applicatios" width="75%">
+    <img src="https://m.foolcdn.com/media/dubs/images/what-is-artificial-intelligence-infographic.width-880.png" alt=" what is ai" width="75%">
+    </div>
+</body>
+</main>
+</html>
